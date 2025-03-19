@@ -1,0 +1,16 @@
+{
+  "feeds": [
+    {
+      "name": "Feed1",
+      "url": "https://original-rss-feed-url1.com/rss"
+    },
+    {
+      "name": "Feed2",
+      "url": "https://original-rss-feed-url2.com/rss"
+    },
+    {
+      "name": "Feed3",
+      "url": "https://original-rss-feed-url3.com/rss"
+    }
+  ]
+}
